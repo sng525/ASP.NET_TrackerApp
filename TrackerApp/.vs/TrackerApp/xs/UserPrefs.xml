@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{44A786DD-7F60-46F1-BB9A-3ADE34EBFA28}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TrackerApp FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrackerApp/Program.cs">
+    <Files>
+      <File FileName="TrackerApp/Models/Category.cs" Line="12" Column="38" />
+      <File FileName="TrackerApp/Models/Transaction.cs" Line="21" Column="1" />
+      <File FileName="TrackerApp/Models/ApplicationDbContext.cs" Line="12" Column="50" />
+      <File FileName="TrackerApp/Program.cs" Line="10" Column="87" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrackerApp" expanded="True">
+            <Node name="TrackerApp">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
