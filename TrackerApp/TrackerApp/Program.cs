@@ -7,7 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 // Dependency Injection
-builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer());
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection")));
 
 var app = builder.Build();
 
